@@ -25,10 +25,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xloqia03&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xloqia03&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xloqia03&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
