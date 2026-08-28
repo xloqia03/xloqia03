@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xloqia03&style=flat-square&color=blue" alt="Profile Views" />
   <a href="https://hackerone.com/xloqia03"><img src="https://img.shields.io/badge/HackerOne-xloqia03-1?style=flat-square&logo=hackerone&logoColor=white" alt="HackerOne" /></a>
+  <img src="https://img.shields.io/badge/Status-Hunting_Bugs-critical?style=flat-square&logo=target&logoColor=white" alt="Status" />
 </p>
 
 ---
