@@ -20,6 +20,17 @@
 
 ---
 
+### 📰 // MEDIA & PRESS COVERAGE
+| News Outlet / Platform | Spotlight / Coverage Subject | Direct Link |
+| :--- | :--- | :--- |
+| 🌐 **Gulf Magazine** | The Cybersecurity Prodigy Feature | [Read Article](https://gulfmagazine.co/baraa-habab-the-cybersecurity-prodigy-who-turned/) |
+| 🌐 **Middle East Monitor** | Security Loopholes in TikTok Discovery | [Read Article](https://www.middleeastmonitor.com/20240614-young-syria-man-finds-security-loopholes-in-tiktok/) |
+| 🌐 **Middle East Monitor** | Facebook Security Flaws Discovery | [Read Article](https://www.middleeastmonitor.com/20220618-young-syrian-man-discovers-several-facebook-security-loopholes/) |
+| 🌐 **Arabi 21 (عربي 21)** | نموذج الإبداع السوري في الخارج | [Read Article](https://arabi21.com/story/1481049/%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D9%8A%D8%A8%D8%AF%D8%B9%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC-%D9%86%D9%85%D9%88%D8%B0%D8%AC-%D8%A8%D8%B1%D8%A7%D8%A1-%D8%AD%D8%A8%D8%A7%D8%A8) |
+| 🌐 **Orient News (أورينت)** | التغطية التقنية والأمنية | [Read Article](https://orient-news.net/ar/news_show/200900) |
+
+---
+
 ### 🏆 // HACKERONE IMPACT (LIVE DATA)
 <p align="center">
   <img src="https://img.shields.io/badge/Bounties_Paid-$5000+-red?style=for-the-badge&logo=paypal&logoColor=white" />
